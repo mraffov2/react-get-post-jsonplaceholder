@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b420d8da181d39c993c574f18a83c1e8",
+    "revision": "1131fd3d2c6cb58611fa30ca8bce7ac3",
     "url": "/react-get-post-jsonplaceholder/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-get-post-jsonplaceholder/static/js/2.801ff30f.chunk.js"
   },
   {
-    "revision": "376cab71f353baf60975",
-    "url": "/react-get-post-jsonplaceholder/static/js/main.1637fcf3.chunk.js"
+    "revision": "ef45ed4cebad6db21f33",
+    "url": "/react-get-post-jsonplaceholder/static/js/main.3b58022a.chunk.js"
   },
   {
     "revision": "b15c69fd50c5e5d3f214",

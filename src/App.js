@@ -12,8 +12,8 @@ function App() {
           <Navbar>
               <Posts /> 
           </Navbar>
-          <Route exact path="/" component={Posts} />
-          <Route path="/addposts" component={PostsForm} />
+          <Route exact path="/react-get-post-jsonplaceholder/" component={Posts} />
+          <Route path="/react-get-post-jsonplaceholder/addposts" component={PostsForm} />
       </Router>
     </React.Fragment>
   );

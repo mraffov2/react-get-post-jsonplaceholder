@@ -79,7 +79,7 @@ export default class PostsForm extends Component {
                                         type="text" name="title"
                                         placeholder="write a tasks"
                                         className="form-control"/>
-                                    {this.state.titleRequired && <div><p className="text-danger">Tilte is required</p></div>}
+                                    {this.state.titleRequired && <div><p className="text-danger">Title is required</p></div>}
                                     <br/>
                                     <textarea onChange={this.onChange}
                                         value={this.state.body}

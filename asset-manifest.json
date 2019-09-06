@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/react-get-post-jsonplaceholder/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-get-post-jsonplaceholder/static/js/main.f9df4b77.chunk.js",
-    "main.js.map": "/react-get-post-jsonplaceholder/static/js/main.f9df4b77.chunk.js.map",
+    "main.js": "/react-get-post-jsonplaceholder/static/js/main.1637fcf3.chunk.js",
+    "main.js.map": "/react-get-post-jsonplaceholder/static/js/main.1637fcf3.chunk.js.map",
     "runtime~main.js": "/react-get-post-jsonplaceholder/static/js/runtime~main.d16c3e61.js",
     "runtime~main.js.map": "/react-get-post-jsonplaceholder/static/js/runtime~main.d16c3e61.js.map",
-    "static/js/2.8c313816.chunk.js": "/react-get-post-jsonplaceholder/static/js/2.8c313816.chunk.js",
-    "static/js/2.8c313816.chunk.js.map": "/react-get-post-jsonplaceholder/static/js/2.8c313816.chunk.js.map",
+    "static/js/2.801ff30f.chunk.js": "/react-get-post-jsonplaceholder/static/js/2.801ff30f.chunk.js",
+    "static/js/2.801ff30f.chunk.js.map": "/react-get-post-jsonplaceholder/static/js/2.801ff30f.chunk.js.map",
     "index.html": "/react-get-post-jsonplaceholder/index.html",
-    "precache-manifest.5ce858937a1fd156405a5c4b0c006f73.js": "/react-get-post-jsonplaceholder/precache-manifest.5ce858937a1fd156405a5c4b0c006f73.js",
-    "service-worker.js": "/react-get-post-jsonplaceholder/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/react-get-post-jsonplaceholder/static/css/main.34de6062.chunk.css.map"
+    "precache-manifest.1c9eebb251b657e3fe5c015fd92d514b.js": "/react-get-post-jsonplaceholder/precache-manifest.1c9eebb251b657e3fe5c015fd92d514b.js",
+    "service-worker.js": "/react-get-post-jsonplaceholder/service-worker.js"
   }
 }
